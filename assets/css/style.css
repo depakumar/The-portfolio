@@ -14,7 +14,7 @@
   --shadow: 0 6px 20px rgba(16,24,40,0.06);
 }
 
-[data-theme="dark"]{
+[data-theme="dark"] {
   --bg: #071023;
   --surface: #0b1220;
   --text: #e6eef8;
